@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "GitHub Dark Dimmed",
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "terminal.integrated.copyOnSelection": true,
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace, 'Source Code Pro'",
+    "workbench.fontAliasing": "antialiased",
+    "terminal.integrated.fontFamily": "'Source Code Pro'",
+    "terminal.integrated.fontWeight": "normal",
+}
